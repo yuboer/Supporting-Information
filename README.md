@@ -1,0 +1,1 @@
+This repertoire serves as a one-place access for all available supporting information for the Environmental Microbology article <Metabolic Segregation and Functional Gene Clusters in Anaerobic Digestion Consortia>
